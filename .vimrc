@@ -52,4 +52,3 @@ let g:airline#extensions#tabline#enabled = 1
 packloadall
 silent! helptags ALL
 let g:airline#extensions#tabline#formatter = 'unique_tail'
-
